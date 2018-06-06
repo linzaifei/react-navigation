@@ -1,4 +1,4 @@
 # react-navigation
 
-# 安装使用
-# yarn install
+#### 安装使用
+ yarn install
